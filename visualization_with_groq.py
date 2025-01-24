@@ -10,7 +10,7 @@ from groq import Groq  # Assuming you have the Groq client installed
 
 
 # Groq API Key
-GROQ_API_KEY = "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"  # Your provided API key
+GROQ_API_KEY = ""  # Your provided API key
 
 # Initialize the Groq client with your API key
 client = Groq(api_key=GROQ_API_KEY)  # Directly passing the API key to the client
